@@ -8,7 +8,10 @@ This Educational Technology plan is meant to provide accessibility for students 
 
 ### Course
 
-Describe your course including the name, description, and grade level
+This course introduces statistical analysis and computer science principles (coding).  Using inquiry-driven lessons, students are encouraged to ask critical questions about their world, create surveys, and collect data using technology and mobile devices.  Students will analyze and visualize data using the “R” programming language.  By the end of this course they will have explored and participated in the four stages of the Data Cycle: (1) ask a statistical question, (2) collect data, (3) analyze data, and (4) interpret data. 
+
+Introduction to Data Science is available to 11th-12th grade students as a math course and elective.
+
 
 ### Situation
 
