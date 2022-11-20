@@ -1,7 +1,8 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9338396&assignment_repo_type=AssignmentRepo)
 # Educational Technology Plan
 
-Provide a brief description of the purpose of your educational technology Plan
+This Educational Technology plan is meant to provide accessibility for students to learn coding with ease of availability of needed devices and electronic accessibility, in-person support, and online resources while also applying the foundational concepts of Mathematics like Statistics.
+
 
 ## Context
 
@@ -26,7 +27,7 @@ installed as well as any online services.
 ### Hardware Specifications
 
 Describe the hardware requirements for your class. Provide specific requirements
-wherever necessary.
+wherever necessary
 
 ### Application
 
