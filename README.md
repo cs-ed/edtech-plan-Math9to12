@@ -26,9 +26,23 @@ With the inexperienced coders as well as the Special Education students and Engl
 
 ### Software Specifications
 
-Describe the software that you will use. Include software used for students as
-well as any software the instructor will use. This should include any software
-installed as well as any online services.
+For the Introduction to Data Science course, online software is accessible through the school district’s participation in an IDS partnership managed by the IDS and UCLA team.
+### Minimum and Necessary Requirements
+
+- There are two primary software tools used in IDS:
+
+1. IDS software suite for data collection and visualization.
+2. RStudio for hands-on data analysis.
+
+- IDS Web Browser Requirements
+To facilitate data collection and visualization the following browsers are recommended: Chrome, Firefox.
+
+- IDS UCLA Mobile App Requirements
+Portable data collection is facilitated by The IDS UCLA mobile apps available on the Android and iOS devices: Android App (Android 5.1+ operating system), Apple iOS App (iOS 9.0+ operating system).
+
+- RStudio Web Browser Requirements
+RStudio is an external, open-source project, requiring the aforementioned browsers: Chrome, Firefox.
+
 
 ### Hardware Specifications
 
