@@ -15,9 +15,12 @@ Introduction to Data Science is available to 11th-12th grade students as a math 
 
 ### Situation
 
-Provide relevant details about your course and/or school that will influence the
-decisions in the plan. What assets and constraints do you face? What is the
-context of your class, considering demographic and technical resources?
+This course was originally designed by IDS UCLA for students who have already taken high school Statistics in mind, however my school district has made this accessible to all juniors and seniors so Statistics is not a prerequisite.
+
+For the vast majority of students entering this class, this is the first comprehensive student experience in coding. With many novice coders, students who have not had a foreknowledge of Statistics from the course, and individuals who have had discouraging experiences in the Integrated Math 1 and Integrated Math 2 courses, IDS has become the most tangible and relatable the juniors and seniors will experience. Another significant concern has been making this course more accessible for our Special Education students and our English Learners since all of the IDS classes follow an inclusion model. 
+
+With the inexperienced coders as well as the Special Education students and English Learners in mind, my school district has provided all the relevant technology along with the support of our collaboration teachers and instructional aides, but it is the guidance and human interaction that will connect our students to this worthwhile course by initially turning juniors and seniors into participatory sensors. Motivation and interest is stirred up based on the design of this curriculum, but connecting our students to coding R-language coding platform known as Rstudio has taken a bit of time. Students, depending on their own comfort levels have had varying lengths of time to get accustomed to doing the lab work. Collaboration among students working in pairs and one-on-one between the teacher or aide and the coder will be among the strategies to be utilized. For our English learners, the collaboration pairing will be crucial to overcome some of the language barriers as well as the understandable cultural adjustment to a new setting.
+
 
 ## Plan
 
